@@ -2,5 +2,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/milehigh/public_html/nsconcepts
+    - export DEPLOYPATH=/home/milehigh/public_html/nsconcepts.dev
     - /bin/cp index.html $DEPLOYPATH
